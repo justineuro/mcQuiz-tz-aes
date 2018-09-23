@@ -1,0 +1,16 @@
+base64
+https://stackoverflow.com/questions/879152/how-do-i-make-javascript-beep
+https://stackoverflow.com/users/1621981/paul-fournel
+https://stackoverflow.com/users/467240/mtyson
+
+file
+https://stackoverflow.com/questions/1933969/sound-effects-in-javascript-html5
+https://stackoverflow.com/users/27009/kornel
+https://stackoverflow.com/users/642706/basil-bourque
+https://stackoverflow.com/users/456584/user456584
+	var snd = new Audio("file.wav"); // buffers automatically when created
+	snd.play();
+
+coin.mp3, bump.mp3
+https://flukeout.github.io/simple-sounds/
+https://github.com/flukeout/simple-sounds/

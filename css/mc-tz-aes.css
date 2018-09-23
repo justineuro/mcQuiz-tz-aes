@@ -1,0 +1,55 @@
+#main {
+	padding: 25px;
+	margin-top: -21px;
+}
+.table {
+	border: 25px;
+	width: 25%;
+}
+button {
+	align: center;
+	font-size: 8px;
+	font-weight: bold;
+	color: #007700;
+	padding: 2px 2px 2px 2px;
+	border-color: #005500;
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 2px;
+}
+.btn {
+	font-size: 12px;
+	padding: 8px 8px 8px 8px;
+}
+#show {
+	display: inline;
+}
+#hide, #guide {
+	display: none;
+}
+#qlabel {
+	position: relative;
+	height: 10px;
+	margin: 0px 0px -30px 0px;
+}
+.choices {
+	position: relative;
+	margin: 0px 0px 0px 0px;
+}
+.choices input {
+	position: relative;
+	margin: 0px 0px 0px 25px;
+}
+.choices label {
+	position: relative;
+	/*display: inline-block;
+	text-align: center;
+	height: 25px;*/
+	margin: 0px 0px 0px 5px;
+	padding: 15px 7px 5px 7px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
