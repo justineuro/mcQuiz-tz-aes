@@ -1,4 +1,4 @@
-## <img alt="mcQuiz Logo" src="res/mcQuiz-lib.gif" style="margin-bottom: -5px" height="50" width="50" valign="bottom"></img>**mcQuiz-tz-aes**
+## <img alt="mcQuiz Logo" src="res/mcQuiz-lib.gif" style="margin-bottom: -5px" height="50" width="50" valign="middle"></img>**mcQuiz-tz-aes**
 
 [**mcQuiz**](https://justineuro.github.io/mcQuiz) is a multiple-choice question-and-answer web app.  This repository, [**mcQuiz-tz-aes**](https://justineuro.github.io/mcQuiz-tz-aes), is a version that uses [TeXZilla]() to render mathematics and [Crypto.js]() to AES-encrypt the question-and-answer data.  
 
