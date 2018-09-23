@@ -1,4 +1,4 @@
-## <img alt="mcQuiz Logo" src="res/mcQuiz-lib.gif" style="margin-bottom: -5px" height="40" width="51" valign="bottom"></img>**mcQuiz-tz-aes**
+## <img alt="mcQuiz Logo" src="res/mcQuiz-lib.gif" style="margin-bottom: -5px" height="50" width="50" valign="bottom"></img>**mcQuiz-tz-aes**
 
 [**mcQuiz**](https://justineuro.github.io/mcQuiz) is a multiple-choice question-and-answer web app.  This repository, [**mcQuiz-tz-aes**](https://justineuro.github.io/mcQuiz-tz-aes), is a version that uses [TeXZilla]() to render mathematics and [Crypto.js]() to AES-encrypt the question-and-answer data.  
 
@@ -8,7 +8,7 @@ A demo can be found at [https://justineuro.github.io/mcQuiz-tz-aes](https://just
 One can easily modify the available datasets by editing `setDat-mc-tz-aes.js`:
 
 1. Modify the 2nd and 3rd lines of `setDat-mc-tz-aes.js` (found inside the `js` folder under the main directory) to add more topics.  Simply add entries to the data labels array (`datList`) and the topics array (`topicsList`).
-2. Add the additional AES-encryoted datasets at the bottom of `setDat-m-tz-aes.js` as arrays.
+2. Add the additional AES-encryoted datasets at the bottom of `setDat-mc-tz-aes.js` as arrays.
 3. One may opt to randomize the questions by using the sort() and compare function.  See the examples given at the end of each data array already in `setDat-mc-tz-aes.js`.
 
 
