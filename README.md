@@ -1,6 +1,6 @@
 ## <img alt="mcQuiz Logo" src="res/mcQuiz-lib.gif" style="margin-bottom: -5px" height="50" width="50" valign="middle"></img>**mcQuiz-tz-aes**
 
-[**mcQuiz**](https://justineuro.github.io/mcQuiz) is a multiple-choice question-and-answer web app.  This repository, [**mcQuiz-tz-aes**](https://justineuro.github.io/mcQuiz-tz-aes), is a version that uses [TeXZilla](https://github.com/fred-wang/TeXZilla) to render mathematics and [Crypto.js](https://code.google.com/p/crypto-js) to AES-encrypt the question-and-answer data.  
+[**mcQuiz**](https://justineuro.github.io/mcQuiz) is a multiple-choice question-and-answer web app.  This repository, [**mcQuiz-tz-aes**](https://justineuro.github.io/mcQuiz-tz-aes), is a version that uses [TeXZilla](https://github.com/fred-wang/TeXZilla) to render mathematics and [Crypto.js](https://code.google.com/p/crypto-js) to AES-encrypt the question-and-answer data. [TeXZilla](https://github.com/fred-wang/TeXZilla) rendering of math expressions works only on Mozilla browsers (e.g., Firefox and Seamonkey).  
 
 A demo can be found at [https://justineuro.github.io/mcQuiz-tz-aes](https://justineuro.github.io/mcQuiz-tz-aes).
 
